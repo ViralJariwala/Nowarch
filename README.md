@@ -1,2 +1,26 @@
 # Nowarch
-NOWARCH is a Website for designing your Office, Home, FarmHouse, etc.This website provides different types of categories for designing like Interior Design, Exterior Design, and Architecture Design. Tech Used : HTML5, CSS, Javascript, PHP, PhpMyAdmin, MySQL
+
+Yashil Patel(1132210034)
+Nandan Patel (1132210660)
+Viral Jariwala(1132210554)
+
+![Screenshot (12)](https://user-images.githubusercontent.com/97627384/168822960-ee2b7028-9218-4a2d-9ac6-0c1e49ccded9.png)
+![Screenshot (13)](https://user-images.githubusercontent.com/97627384/168822967-dec4f6aa-81a2-460d-82c7-0cebaf140f47.png)
+![Screenshot (14)](https://user-images.githubusercontent.com/97627384/168822970-09421958-e5c3-4012-8461-712238700a63.png)
+![Screenshot (15)](https://user-images.githubusercontent.com/97627384/168822974-fcaf9a03-376b-423f-a068-0d12a1b34d53.png)
+![Screenshot (16)](https://user-images.githubusercontent.com/97627384/168822978-0314676a-adfd-4a21-a544-3f70007f5769.png)
+![Screenshot (17)](https://user-images.githubusercontent.com/97627384/168822984-ad12dd6d-2bbd-4945-9e88-f031f0f5b660.png)
+![Screenshot (18)](https://user-images.githubusercontent.com/97627384/168822986-71169e93-08cb-4772-bb15-1bc80693d3b2.png)
+![Screenshot (19)](https://user-images.githubusercontent.com/97627384/168822988-206af18a-5ee3-4508-9d8b-58c859246f30.png)
+![Screenshot (20)](https://user-images.githubusercontent.com/97627384/168822992-e6cd7670-1d4b-4493-90c3-fe62c233df08.png)
+![Screenshot (1)](https://user-images.githubusercontent.com/97627384/168822994-f02ecf39-206f-438e-ae36-08f62d40cd58.png)
+![Screenshot (2)](https://user-images.githubusercontent.com/97627384/168822995-11f6f202-a992-4e01-b9c0-c6d804d809e3.png)
+![Screenshot (3)](https://user-images.githubusercontent.com/97627384/168823001-19636fad-4233-47c1-bfff-97809c90e7a7.png)
+![Screenshot (4)](https://user-images.githubusercontent.com/97627384/168823003-94158349-5ca3-4a47-86ce-3115f60b5e80.png)
+![Screenshot (5)](https://user-images.githubusercontent.com/97627384/168823008-3c6640c7-218f-4e33-9ed6-34f133d00d1c.png)
+![Screenshot (6)](https://user-images.githubusercontent.com/97627384/168823010-79eb1b86-bf2b-437f-9659-6892817f0b73.png)
+![Screenshot (7)](https://user-images.githubusercontent.com/97627384/168823011-1636fbf0-4ea0-431f-afb9-7bce7539b0ce.png)
+![Screenshot (8)](https://user-images.githubusercontent.com/97627384/168823022-36c3f98b-d584-49ad-8537-8e312ef2c198.png)
+![Screenshot (9)](https://user-images.githubusercontent.com/97627384/168823024-3c7fcb85-6bbe-4dfa-96f7-299ea750b6d2.png)
+![Screenshot (10)](https://user-images.githubusercontent.com/97627384/168823027-4131ae48-a430-49a7-94ce-f91a19750e5e.png)
+![Screenshot (11)](https://user-images.githubusercontent.com/97627384/168823031-f5b55532-afcf-45ed-b14d-e5587ae23b4a.png)
