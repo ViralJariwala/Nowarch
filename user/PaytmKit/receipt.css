@@ -1,0 +1,125 @@
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f1f1f1;
+  font-family: 'Roboto Mono', sans-serif;
+  color: #687182;
+}
+
+.blue {
+  background-color: #2f88fe;
+}
+
+.white {
+  background-color: white;
+}
+
+.email-container {
+  width: 700px;
+  margin: 20px auto;
+}
+
+.email-container .col-sm-6 {
+  min-height: 500px;
+}
+
+.row:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+.row .col-sm-6 {
+  width: 50%;
+  float: left;
+  padding: 40px;
+}
+
+.email-container .col-sm-6:last-child {
+  transform: scale(1.05);
+  position: absolute;
+}
+
+.z-depth-1{
+  box-shadow : 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12)
+}
+.z-depth-2{
+  box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+}
+
+.brand--name, .brand--subHeading{
+ font-family: 'Roboto Mono', sans-serif;
+  line-height: 1;
+  color: #fff;
+  text-align: center;
+}
+.brand--name{
+  font-size: 38px;
+  font-weight: 300;
+  margin: 60px auto 20px;
+}
+.brand--subHeading{
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 1.2px;
+}
+.brand-icon{
+  background: url("https://cdn.iconscout.com/icon/free/png-256/paytm-226448.png") no-repeat;
+}
+.header{
+  height: 34px;
+  line-height: 34px;
+  margin-bottom: 40px;
+}
+.textRight{
+  text-align: right;
+}
+.divider{
+  border-bottom: 1px solid rgba(200,200,200,0.4);
+}
+.col-sm-6 .divider{
+  margin-left : -40px;
+  margin-right: -40px;
+} 
+
+.collection{
+  position: relative;
+}
+.collection--item{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  display: block;
+  width: 100%;
+}
+.item--name, .total{
+  float: left;
+  line-height: 1;
+  font-weight: 400
+}
+.item--cost,.total--cost{
+  float: right;
+  font-weight: 500;
+  line-height: 1;
+}
+.collection--total{
+  position: absolute;
+  bottom: 40px;
+  padding-right: 80px;
+  width: 100%;
+}
+.total{
+  line-height: 32px;
+}
+.total--cost{
+  font-weight: 300;
+  font-size: 32px;
+}
+.collection--item:after,.collection--total:after{
+  content: "";
+  display: block;
+  clear: both;
+}
